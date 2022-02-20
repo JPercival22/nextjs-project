@@ -5,9 +5,7 @@ import styles from '../styles/Home.module.css'
 const Components = () => {
     return ( 
         <div className={styles.container}>
-            <Navbar />
             <h1>Contact Us</h1>
-            <Footer />
         </div>
      );
 }

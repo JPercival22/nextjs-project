@@ -4,12 +4,10 @@ import styles from '../styles/Home.module.css'
 
 const About = () => {
     return (
-        <div className={styles.container}>
-            <Navbar />
+        <div className="">
             <h1>About</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, dignissimos.</p>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, dignissimos.</p>
-            <Footer />
         </div>
       );
 }
