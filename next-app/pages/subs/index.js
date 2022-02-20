@@ -4,9 +4,7 @@ import Navbar from "../../components-list/navbar";
 const Index = () => {
     return ( 
         <div>
-            <Navbar />
             <h1>Components List</h1>
-            <Footer />
         </div>
      );
 }

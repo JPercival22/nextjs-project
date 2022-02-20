@@ -7,15 +7,12 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Navbar />
       <h1>Home Page</h1>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, dolor.</p>
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum, dolor.</p>
       <Link href="/subs">
         <a>See components list . . .</a>
       </Link>
-      <Footer />
     </div>
-    
   )
 }
