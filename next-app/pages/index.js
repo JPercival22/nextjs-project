@@ -1,7 +1,5 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import Footer from '../components-list/footer'
-import Navbar from '../components-list/navbar'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
