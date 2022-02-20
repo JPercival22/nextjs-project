@@ -3,7 +3,7 @@ import Navbar from "../../components-list/navbar";
 
 const Index = () => {
     return ( 
-        <div>
+        <div className={styles.container}>
             <Navbar />
             <h1>Components List</h1>
             <Footer />
