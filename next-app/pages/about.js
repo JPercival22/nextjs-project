@@ -1,5 +1,6 @@
-import Footer from "../components-list/footer";
-import Navbar from "../components-list/navbar";
+import Footer from "../components-list/footer"
+import Navbar from "../components-list/navbar"
+import styles from '../styles/Home.module.css'
 
 const About = () => {
     return (
