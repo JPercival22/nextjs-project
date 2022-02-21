@@ -27,6 +27,17 @@ nav a {
 nav .logo {
   margin-right: auto;
 }
+.sorry-page {
+  text-align: center;
+}
+.sorry-page a {
+  color: #4979ff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+.sorry-page a:hover {
+  text-decoration: none;
+}
 footer {
   display: flex;
   align-items: center;
