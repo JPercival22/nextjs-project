@@ -4,8 +4,8 @@ const About = () => {
     return (
         <div className="">
             <h1>About</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, dignissimos.</p>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, dignissimos.</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit voluptatem corrupti incidunt beatae esse nobis eveniet officia corporis? Error, id?</p>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sit voluptatem corrupti incidunt beatae esse nobis eveniet officia corporis? Error, id?</p>
         </div>
       );
 }
